@@ -1,0 +1,18 @@
+html{
+    background-color: red;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+.wrapper{
+    margin: 10rem auto;
+    text-align: center;
+}
+    
+
+input{
+    width: 200px;
+}
